@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TransGlobalShipping</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+body {margin:0;font-family:'Montserrat',sans-serif;background:#0d0d0d;color:white;}
+header {background:black;padding:20px;text-align:center;border-bottom:2px solid #222;}
+header h1 {margin:0;font-size:30px;letter-spacing:3px;}
+.hero {background:url('https://images.unsplash.com/photo-1600185365483-26d7a4cc7519') center/cover no-repeat;height:320px;display:flex;align-items:center;justify-content:center;text-align:center;font-size:28px;font-weight:800;text-shadow:2px 2px 10px black;}
+.section-title {text-align:center;margin:40px 0 20px;font-size:22px;letter-spacing:2px;}
+.products {display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:18px;padding:0 20px 40px;}
+.product {background:#1a1a1a;border-radius:8px;overflow:hidden;transition:.3s;border:1px solid #222;}
+.product:hover {transform:scale(1.05);}
+.product img {width:100%;height:200px;object-fit:cover;}
+.product h3 {padding:10px;font-size:14px;text-align:center;}
+.telegram {text-align:center;margin:50px 20px;}
+.telegram a {background:#0088cc;color:white;padding:15px 30px;text-decoration:none;border-radius:5px;font-weight:bold;display:inline-block;font-size:16px;}
+footer {background:black;text-align:center;padding:15px;color:#777;font-size:13px;}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>TRANSGLOBAL SHIPPING</h1>
+<p>Streetwear & Sneaker Warehouse</p>
+</header>
+
+<div class="hero">
+Premium Street Fashion Direct From Warehouse
+</div>
+
+<h2 class="section-title">🔥 LATEST ARRIVALS</h2>
+
+<div class="products">
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_1">
+<h3>Designer Color Sneakers</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_2">
+<h3>Black Street Boots</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_3">
+<h3>Premium Combat Boots</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_4">
+<h3>Luxury Hooded Sets</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_5">
+<h3>Designer Shoe Boxes Collection</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_6">
+<h3>Designer Sneaker Variety</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_7">
+<h3>Cut Style Street Jeans</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_8">
+<h3>Streetwear Hoodies</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_9">
+<h3>Black Fur Puffer Jacket</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_10">
+<h3>Heavy Sole Black Boots</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_11">
+<h3>Luxury Designer Sneakers</h3>
+</div>
+
+<div class="product">
+<img src="YOUR_IMAGE_LINK_12">
+<h3>Premium Low Top Sneakers</h3>
+</div>
+
+</div>
+
+<div class="telegram">
+<h2>📦 Contact The Supplier Directly</h2>
+<p>For prices, sizes and delivery information</p>
+<a href="https://t.me/Transglobal_shipping" target="_blank">
+Contact on Telegram
+</a>
+</div>
+
+<footer>
+© 2026 TransGlobalShipping | Streetwear Warehouse
+</footer>
+
+</body>
+</html>
